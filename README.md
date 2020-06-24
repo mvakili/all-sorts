@@ -1,4 +1,4 @@
-# Java implementation of common used sort functions
+# Java implementation of commonly used sort functions
 
 This is the visual implementation of sorting algorithms.
 this code covers the following algorithms:
@@ -10,7 +10,7 @@ this code covers the following algorithms:
 - Merge Sort
 - Shell Sort
 
-The implementation generates random unsorted integers based on user input and generates output both for CLI and GUI using java `StdDraw` library.
+The implementation generates random unsorted double array based on user input and generates output both for CLI and GUI using java `StdDraw` library.
 
 ## How it works
 First of all, you should compile `allSorts.java` file using this command:
