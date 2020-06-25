@@ -3,12 +3,12 @@
 This is the visual implementation of sorting algorithms.
 this code covers the following algorithms:
 
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Quick Sort
-- Merge Sort
-- Shell Sort
+- [Bubble Sort]( http://en.wikipedia.org/wiki/Bubble_sort)
+- [Selection Sort]( https://en.wikipedia.org/wiki/Selection_sort)
+- [Insertion Sort]( http://en.wikipedia.org/wiki/Insertion_sort)
+- [Quick Sort]( http://en.wikipedia.org/wiki/Quicksort)
+- [Merge Sort]( http://en.wikipedia.org/wiki/Merge_sort)
+- [Shell Sort]( https://en.wikipedia.org/wiki/Shellsort)
 
 The implementation generates random unsorted double array based on user input and generates output both for CLI and GUI using java `StdDraw` library.
 
