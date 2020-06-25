@@ -10,7 +10,7 @@ this code covers the following algorithms:
 - [Merge Sort]( http://en.wikipedia.org/wiki/Merge_sort)
 - [Shell Sort]( https://en.wikipedia.org/wiki/Shellsort)
 
-The implementation generates random unsorted double array based on user input and generates output both for CLI and GUI using java `StdDraw` library.
+The implementation generates random unsorted double array based on user input and generates output both for CLI :desktop_computer: and GUI :bar_chart: using java `StdDraw` library.
 
 ## How it works
 First of all, you should compile `allSorts.java` file using this command:
